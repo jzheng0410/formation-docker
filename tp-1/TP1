@@ -1,2 +1,0 @@
-FROM linux
-RUN echo "Hello World"
